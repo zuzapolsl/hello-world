@@ -1,4 +1,5 @@
 # hello-world
 Moje pierwsze repozytorium
 Rozpoczynam prace z Github
-Jest to mój pierwszy projekt, na który sie ciesze
+Jest to moj pierwszy projekt, na ktory sie ciesze
+Testy testy
